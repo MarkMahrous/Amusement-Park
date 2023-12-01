@@ -52,3 +52,13 @@ The amusement park environment consists of:
 - The game concludes when the time runs out.
 - A 'GAME WIN' screen appears if the player collects the goal(s) within the specified time.
 - A 'GAME LOSE' screen appears if the goal is not collected/reached within the time limit.
+
+## Implementation
+Amusement Park Adventure - 3D Game is developed using C++ in Visual Studio and relies on the OpenGL library and the glut.h header for graphics rendering. Players can control the game through keyboard input to move in four directions and interact with the game environment.
+
+## How to Run the Game
+Follow these steps to run Amusement Park Adventure - 3D Game:
+1. Set up your development environment with Visual Studio.
+2. Ensure you have the necessary OpenGL and glut.h libraries installed.
+3. Open the Game by running OpenGL3DTemplate.sln with Visual Studio.
+4. Compile and run the game code, and you can start playing.
